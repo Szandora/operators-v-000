@@ -12,3 +12,4 @@ end
 def not_safe?(speed)
   speed < 40 || spped > 60 ? "unsafe" : "safe"
 end
+end
